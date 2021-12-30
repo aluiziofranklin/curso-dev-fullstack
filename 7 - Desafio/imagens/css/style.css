@@ -1,0 +1,68 @@
+*{
+   margin: 0;
+   padding: 0;
+
+}
+
+body{
+    background-image: url(img/background.png);
+    background-repeat: no-repeat ;
+    background-position: center center;
+    background-size: cover;
+    
+    
+}
+
+.cadastro h1, h2, h3 {
+    font-family: 'Lato', sans-serif;
+}
+
+.cadastro h2{
+    margin: 10px 10px 40px 0px;
+
+}
+
+.cadastro h3{
+    margin: 10px 10px 10px 0px;
+
+}
+.cadastro{
+    top: 100px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    position: absolute;
+    
+    text-align: center;
+
+
+}
+.icone {
+    width: 80px;
+}
+
+.icone-aba{
+    background: black;
+}
+.input{
+    border-radius: 4px;
+    width: 50%;
+    height: 30px;
+
+}
+
+
+
+.cadastro button{
+    width: 50%;
+    background: rgb(51, 68, 223);
+    color: white;
+    padding: 8px;
+    font-size: 18px;
+    border-radius: 8px;
+    font-family: 'Lato', sans-serif;
+    
+
+}/* comecei às 9:33 e terminei às 11:35. 
+início 15:31*/
+
